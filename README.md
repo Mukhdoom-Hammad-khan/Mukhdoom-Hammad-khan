@@ -16,7 +16,7 @@
 ---
 
 ### 🔥 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-Khan&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mukhdoom-Hammad-Khan&theme=radical)
 
 ---
 
