@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 **Software Engineering Student**
 - 🌟 Passionate about **AI**, **Computer Technology**, and **Web Development**
-- 🐍 Currently learning **Python**, with prior experience in **C**
+- 🐍 Currently learning **Python**, with little bit experience in **C**
 - 🌐 Proficient in **Microsoft Word**, **PowerPoint**, and **Windows Settings**
 - 🚀 Aspiring to work as a **Software Engineer** internationally
 
@@ -15,13 +15,13 @@
 
 ---
 
-### 🔥 Current Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mukhdoom-Hammad-Khan&theme=radical)
+### 📊 Contributions Overview
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-Khan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📊 Contributions Overview
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-Khan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🏆 My GitHub Profile Trophies
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Mukhdoom-Hammad-Khan)
 
 ---
 
