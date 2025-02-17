@@ -26,14 +26,14 @@
 ---
 
 ### 🛠️ Tools & Technologies
-- **Languages:** Python, C, HTML, CSS
+- **Languages:** Python, HTML, CSS
 - **Tools:** Git, GitHub, Visual Studio Code, Windows Settings
 - **Skills:** PC Gaming, Drawing, Teaching, Troubleshooting
 
 ---
 
 ### 📚 Learning Goals
-- 🌱 **Currently mastering:** Python and Web Development (HTML & CSS)
+- 🌱 **Currently Learning:** Python and Web Development (HTML & CSS)
 - 💡 **Future plans:** AI Projects, Advanced Web Development
 
 ---
@@ -42,7 +42,6 @@
 - 😄 Pronouns: **He/Him**
 - 🎮 Love playing **PC games** and reading **manga**
 - 🎨 Enjoys **drawing** and teaching
-- ✨ A fan of **reincarnation and isekai manga**
 
 ---
 
