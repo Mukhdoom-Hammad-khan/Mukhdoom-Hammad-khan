@@ -4,7 +4,7 @@
 - 🎓 **Software Engineering Student**
 - 🌟 Passionate about **AI**, **Computer Technology**, and **Web Development**
 - 🐍 Currently learning **Python**, with little bit experience in **C**
-- 🌐 Proficient in **Microsoft Word**, **PowerPoint**, and **Windows Settings**
+- 🌐 Proficient in **Microsoft Word**, **Adobe Illustrator**, **Designing**.
 - 🚀 Aspiring to work as a **Software Engineer** internationally
 
 ---
@@ -27,13 +27,13 @@
 
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, HTML, CSS
-- **Tools:** Git, GitHub, Visual Studio Code, Windows Settings
-- **Skills:** PC Gaming, Drawing, Teaching, Troubleshooting
+- **Tools:** Git, GitHub, Visual Studio Code, Thonny, IntelliJ, Apache NetBeans.
+- **Skills:** Java {beginner}, Python {beginner}, Java Swing {beginner}, Html and Css, Flask_Python. 
 
 ---
 
 ### 📚 Learning Goals
-- 🌱 **Currently Learning:** Python and Web Development (HTML & CSS)
+- 🌱 **Currently Learning:** Java {OOP}
 - 💡 **Future plans:** AI Projects, Advanced Web Development
 
 ---
