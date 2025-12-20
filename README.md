@@ -15,16 +15,6 @@
 
 ---
 
-### 📊 Contributions Overview
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-Khan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🏆 My GitHub Profile Trophies
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Mukhdoom-Hammad-Khan)
-
----
-
 ### 🛠️ Tools & Technologies
 - **Languages:** Python (Basics), Java (Basics), HTML, CSS  
 - **Tools:** Git, GitHub, Visual Studio Code, Thonny, IntelliJ, Apache NetBeans  
