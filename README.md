@@ -103,9 +103,8 @@ Fun Facts  :
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <i>"Code is not just syntax — it's the language of the future."</i><br/>
