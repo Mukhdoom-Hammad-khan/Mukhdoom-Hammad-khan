@@ -77,12 +77,6 @@ Fun Facts  :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhdoom-Hammad-Khan&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhdoom-Hammad-Khan&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-Khan&theme=radical&hide_border=true"/>
 </p>
 
