@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Hammad!%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Hammad!%20&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=40"/>
 </p>
 
 <p align="center">
-  <a href="mailto:hammadahmedopx@gmail.com">
+  <a href="mailto:hammadahmedopx@gmail.com?subject=Hello%20Hammad&body=Hi%20Hammad%2C%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out!" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Mukhdoom-Hammad-khan">
-    <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mukhdoom-hammad-khan-160a2b333/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -24,14 +23,14 @@ Location   : Pakistan
 Interests  : AI Development, Web Development, Full-Stack Engineering
 
 Currently  :
-  - Learning   : Java OOP, MongoDB, Assembly Language (MIPS/MARS)
+  - Learning   : MongoDB
   - Building   : Small projects to sharpen backend & AI skills
   - Exploring  : AI Agents (Gemini, Claude, GPT), Linux/Ubuntu
 
 Fun Facts  :
   - 🎮 PC Gamer & Manga Reader
   - 🎨 Enjoys Drawing and Teaching
-  - 🚀 Aspiring International Software Engineer
+  - 🚀 Aspiring Software Engineer
 ```
 
 ---
@@ -45,7 +44,6 @@ Fun Facts  :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
@@ -72,13 +70,17 @@ Fun Facts  :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhdoom-Hammad-Khan&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhdoom-Hammad-Khan&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukhdoom-Hammad-Khan&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-Khan&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukhdoom-Hammad-Khan&theme=radical"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukhdoom-Hammad-Khan&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mukhdoom-Hammad-Khan&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -91,18 +93,38 @@ Fun Facts  :
 
 ---
 
+
 ## 🚀 Learning Roadmap
 
-| Status | Goal |
-|--------|------|
-| ✅ Done | Python Basics, Java Basics, HTML/CSS, Flask, Git |
-| ✅ Done | SQL Server, Linux/Ubuntu, MIPS Assembly Language |
-| 🔄 In Progress | MongoDB |
-| 🌟 Goal | AI-Powered Projects & International Software Engineering |
+<div align="center">
+
+![](https://img.shields.io/badge/✅%20Completed-Python-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-Java-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-HTML%20%7C%20CSS-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-Flask-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-Git-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-SQL%20Server-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-Linux%20%7C%20Ubuntu-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-MIPS%20Assembly-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/✅%20Completed-Java%20OOP-2ea44f?style=for-the-badge)
+![](https://img.shields.io/badge/🔄%20In%20Progress-MongoDB-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🔄%20In%20Progress-AI%20Agents-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🎯%20Next%20Up-React-blue?style=for-the-badge)
+![](https://img.shields.io/badge/🎯%20Next%20Up-Node.js-blue?style=for-the-badge)
+![](https://img.shields.io/badge/🌟%20Goal-AI%20Projects-purple?style=for-the-badge)
+
+</div>
 
 ---
 
-![Snake animation](https://github.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/blob/output/github-contribution-grid-snake.svg)
+
+Each row is now a colored badge — green for done, orange for in progress, blue for next, purple for the big goal. Looks much more modern on a GitHub profile.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 
 <p align="center">
