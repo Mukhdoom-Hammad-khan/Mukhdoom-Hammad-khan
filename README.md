@@ -7,7 +7,7 @@
     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Mukhdoom-Hammad-Khan">
+  <a href="https://github.com/YOUR_EXACT_USERNAME_HERE">
     <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -39,22 +39,17 @@ Fun Facts  :
 ## 🛠️ Languages & Technologies
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <!-- OS & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
-  <!-- IDEs & Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
 </p>
 
@@ -76,8 +71,25 @@ Fun Facts  :
 
 ## 📊 GitHub Stats
 
+<!-- ⚠️ IMPORTANT: Replace YOUR_EXACT_USERNAME_HERE with your real GitHub username (check your profile URL) -->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-Khan&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_USERNAME_HERE&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<!-- This works automatically — no setup needed. Just replace YOUR_EXACT_USERNAME_HERE -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_EXACT_USERNAME_HERE&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -91,14 +103,6 @@ Fun Facts  :
 | 🔄 In Progress | MongoDB |
 | 🎯 Next Up | Advanced Web Dev, Full-Stack (React + Node.js) |
 | 🌟 Goal | AI-Powered Projects & International Software Engineering |
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/blob/output/github-contribution-grid-snake.svg)
-
-> **Note:** To activate the snake, set up a GitHub Actions workflow in your profile repo. See [this guide](https://github.com/Platane/snk) for setup instructions.
 
 ---
 
