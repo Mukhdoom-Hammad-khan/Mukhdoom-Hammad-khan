@@ -115,9 +115,6 @@ Fun Facts  :
 
 ---
 
-
-Each row is now a colored badge — green for done, orange for in progress, blue for next, purple for the big goal. Looks much more modern on a GitHub profile.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake.svg"/>
