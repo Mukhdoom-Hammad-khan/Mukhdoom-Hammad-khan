@@ -103,7 +103,7 @@ Fun Facts  :
 
 ---
 
-![Snake animation](https://github.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
