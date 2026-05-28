@@ -72,13 +72,13 @@ Fun Facts  :
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhdoom-Hammad-khan&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukhdoom-Hammad-Khan&show_icons=true&theme=radical&hide_border=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhdoom-Hammad-khan&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhdoom-Hammad-Khan&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-khan&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-Khan&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -97,13 +97,12 @@ Fun Facts  :
 |--------|------|
 | ✅ Done | Python Basics, Java Basics, HTML/CSS, Flask, Git |
 | ✅ Done | SQL Server, Linux/Ubuntu, MIPS Assembly Language |
-| 🔄 In Progress | Java OOP, MongoDB, AI Agent Development |
-| 🎯 Next Up | Advanced Web Dev, Full-Stack (React + Node.js) |
+| 🔄 In Progress | MongoDB |
 | 🌟 Goal | AI-Powered Projects & International Software Engineering |
 
 ---
 
-![Snake animation](https://github.com/Mukhdoom-Hammad-khan/Mukhdoom-Hammad-khan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
