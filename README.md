@@ -7,7 +7,7 @@
     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_EXACT_USERNAME_HERE">
+  <a href="https://github.com/Mukhdoom-Hammad-khan">
     <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -71,25 +71,22 @@ Fun Facts  :
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ IMPORTANT: Replace YOUR_EXACT_USERNAME_HERE with your real GitHub username (check your profile URL) -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukhdoom-Hammad-khan&show_icons=true&theme=radical&hide_border=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhdoom-Hammad-khan&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_USERNAME_HERE&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhdoom-Hammad-khan&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<!-- This works automatically — no setup needed. Just replace YOUR_EXACT_USERNAME_HERE -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_EXACT_USERNAME_HERE&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-khan&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -100,7 +97,7 @@ Fun Facts  :
 |--------|------|
 | ✅ Done | Python Basics, Java Basics, HTML/CSS, Flask, Git |
 | ✅ Done | SQL Server, Linux/Ubuntu, MIPS Assembly Language |
-| 🔄 In Progress | MongoDB |
+| 🔄 In Progress | Java OOP, MongoDB, AI Agent Development |
 | 🎯 Next Up | Advanced Web Dev, Full-Stack (React + Node.js) |
 | 🌟 Goal | AI-Powered Projects & International Software Engineering |
 
