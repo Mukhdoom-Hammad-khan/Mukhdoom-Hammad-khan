@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 Name       : Mukhdoom Hammad Khan
@@ -27,13 +27,13 @@ Currently  :
 
 Fun Facts  :
   - 🎮 PC Gamer & Manga Reader
-  - 🎨 Enjoys Drawing and Teaching
+  - 🎨 Enjoys Drawing
   - 🚀 Aspiring Software Engineer
 ```
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
@@ -51,7 +51,7 @@ Fun Facts  :
 
 ---
 
-## 🤖 AI & Emerging Tech
+## AI & Emerging Tech
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -65,7 +65,7 @@ Fun Facts  :
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukhdoom-Hammad-Khan&theme=radical" />
@@ -83,7 +83,7 @@ Fun Facts  :
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-khan&theme=react-dark&hide_border=true&area=true"/>
@@ -92,7 +92,7 @@ Fun Facts  :
 ---
 
 
-## 🚀 Learning Roadmap
+## Learning Roadmap
 
 <div align="center">
 
@@ -123,6 +123,5 @@ Fun Facts  :
 
 
 <p align="center">
-  <i>"Code is not just syntax — it's the language of the future."</i><br/>
   <b>📫 Reach me at: hammadahmedopx@gmail.com</b>
 </p>
